@@ -8,4 +8,4 @@
 **Solution:**
 ```bash
 chmod +x scripts/*.sh
-sudo chmod +x 01-Network-Monitor/*.py
+sudo chmod +x 01-Network-Monitor/*.py 
