@@ -20,6 +20,14 @@ This suite contains 5 professional network security projects with automation scr
 - ✅ Shell scripts for automation
 - ✅ Python scripts for analysis
 - ✅ Web interface (coming soon)
+- 
+### 🚀 Usage
+
+# Run automation
+./scripts/auto_network_scan.sh
+
+# Run individual projects
+sudo python3 01-Network-Monitor/network_monitor.py
 
 ### 📦 Installation
 ```bash
